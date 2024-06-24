@@ -1,0 +1,82 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Verdana', sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.download-link {
+    display: block;
+    color: #7FFFD4;
+    font-size: 16px;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+main {
+    margin-bottom: 20px;
+}
+
+.excursion-video video {
+    max-width: 100%;
+    height: auto;
+}
+
+.travel-guide h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.travel-guide p {
+    font-size: 21px;
+    color: #808080;
+}
+
+.camping-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer .coming-soon {
+    margin: 20px 0;
+}
+
+footer .coming-soon img {
+    width: 50px;
+    height: auto;
+}
+
+footer .coming-soon p {
+    font-size: 50px;
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+footer .download-link {
+    color: #7FFFD4;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+footer .copyright {
+    text-align: right;
+    color: #808080;
+    margin: 20px 0 0 0;
+}
